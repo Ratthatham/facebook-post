@@ -1,0 +1,60 @@
+* { font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin : 0px;
+    background: #e9ebee;
+}
+
+.Navbar {
+    color : #ffffff;
+    padding: 10px;
+    background : #4167b2;
+}
+
+.Input, .Post {
+    border: 1px solid hsl(216, 8%, 88%);
+    border-radius: 4px;
+    width: 576px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: white;
+}
+
+.Input__header {
+    background-color: #f5f6f7;
+    border-bottom: 1px solid #dddfe2;
+    border-radius: 2px 2px 0 0 ;
+    margin: 0;
+    padding: 15px;
+}
+
+.Input__field {
+    width: 100%;
+    font-size: 15px;
+    height: 100px;
+    padding: 10px;
+    background-color: white;
+    border : none ;
+
+}
+
+.Input__field:focus {
+    outline: none;
+}
+
+
+.Post{
+    padding: 15px;
+    text-align: left;
+}
+
+.Post__delete{
+    background: none;
+    padding: 0px;
+    color: gray;
+    cursor: pointer;
+    float: right;
+    
+}
