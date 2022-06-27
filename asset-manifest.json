@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/facebook-post/static/css/main.ed959320.css",
+    "main.js": "/facebook-post/static/js/main.2f405070.js",
+    "index.html": "/facebook-post/index.html",
+    "main.ed959320.css.map": "/facebook-post/static/css/main.ed959320.css.map",
+    "main.2f405070.js.map": "/facebook-post/static/js/main.2f405070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed959320.css",
+    "static/js/main.2f405070.js"
+  ]
+}
